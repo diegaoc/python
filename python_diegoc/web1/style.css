@@ -1,0 +1,14 @@
+body {
+    background-color: grey;}
+
+p {
+    font: optional;
+    color: aqua;
+}
+
+input {
+    background-color: aqua;
+}
+.boton {
+    background-color: aquamarine;
+}
